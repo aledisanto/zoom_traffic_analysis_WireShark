@@ -30,5 +30,5 @@ Attraverso lo studio degli endpoint più frequentati e delle tecniche di geo-IP,
 ---
 *Progetto realizzato da: Alessandro Di Santo*  
 *Professore: Martino Trevisan*  
-*Corso: Advanced Internet Technologies* 
-*Dipartimento di Ingegneria e Architettura — Università degli Studi di Trieste*
+*Corso: Advanced Internet Technologies*
+*Ingegneria Elettronica e Informatica — Università degli Studi di Trieste*
